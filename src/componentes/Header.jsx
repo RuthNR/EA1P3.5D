@@ -9,6 +9,7 @@ function Header() {
         <Link to="/">Home</Link>
         <Link to="/preguntas">Preguntas</Link>
         <Link to="/productos">Productos</Link>
+        <Link to="/login"><UserRound size={25} /></Link>
       </nav>
     </header>
   );
